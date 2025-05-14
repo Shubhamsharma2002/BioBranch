@@ -3,7 +3,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='p-4 bg-amber-400 items-center text-white font-bold flex justify-around'>
+    <div className='p-4 bg-amber-400  items-center text-white font-bold flex justify-around '>
       <div>
          <Link href="/">Biobranch</Link>
       </div>
