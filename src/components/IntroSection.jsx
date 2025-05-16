@@ -1,8 +1,8 @@
 import React from "react";
-
+import Image from "next/image";
 const IntroSection = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between w-full pl-5">
+    <div className="flex flex-col md:flex-row items-center justify-around w-full pl-5">
       {/* Text Section */}
       <div className="w-1/2 text-center ">
         <h1 className="text-3xl font-semibold ">
@@ -28,12 +28,8 @@ const IntroSection = () => {
       </div>
 
       {/* Image Section */}
-      <div className="w-full md:w-1/2 flex justify-end">
-        <img
-          src="/images/Introsection.jpg"
-          alt="Intro Section"
-          className="w-140 h-auto object-cover rounded-lg"
-        />
+      <div className="">
+        <Image src = "/images/Introsection.png" width={350} height={100} />
       </div>
     </div>
   );
