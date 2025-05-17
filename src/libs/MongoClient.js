@@ -1,20 +1,22 @@
-import mongoose from "mongoose";
-// connectic to db function 
-const connectDB = async () => {
-  try {
-    // printing the connection string
-    console.log(`${process.env.DB_URI}`);
+// libs/mongoClient.js
 
-    const connection = await mongoose.connect(
-      `${process.env.DB_URI}/${process.env.DB_NAME}`
-    );
-    // connection msg
-    console.log(`databse connect ::)  ${connection}`);
-  } catch (error) {
-    // error msg
-    console.log("mongo db connection error");
-    // console.log(error);
-  }
-};
+import { MongoClient } from "mongodb";
 
-export default connectDB;
+const uri = process.env.URI;
+
+if (!uri) {
+  throw new Error("MONGODB_URI is not defined in .env.local");
+}
+
+let client = global._mongoClient;
+let clientPromise;
+
+if (!client) {
+  client = new MongoClient(uri);
+  global._mongoClient = client;
+  clientPromise = client.connect();
+} else {
+  clientPromise = client.connect();
+}
+
+export default clientPromise;
