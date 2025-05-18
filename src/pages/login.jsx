@@ -1,7 +1,7 @@
 import Loginwithgoogle from '@/components/auth/Loginwithgoogle';
 import Loginwithlinkdin from '@/components/auth/loginwithlinkdin';
-import Loginwithphone from '@/components/auth/Loginwithphone';
 import React from 'react';
+import Loginwithemail from '@/components/auth/Loginwithemail';
 
 
 function Login() {
@@ -11,7 +11,7 @@ function Login() {
 
      <Loginwithgoogle/>
      <Loginwithlinkdin/>
-     <Loginwithphone/>
+     <Loginwithemail/>
     </div>
   );
 }
