@@ -1,12 +1,10 @@
-// pages/api/auth/[...nextauth].js
-
+import NextAuth from "next-auth";
 import clientPromise from "@/libs/MongoClient";
 import { MongoDBAdapter } from "@auth/mongodb-adapter";
-import NextAuth from "next-auth";
 import GoogleProvider from "next-auth/providers/google";
 
-export default NextAuth({
-    adapter: MongoDBAdapter(clientPromise),
+export const authOptions = {
+  adapter: MongoDBAdapter(clientPromise),
 
   providers: [
     GoogleProvider({
@@ -14,5 +12,8 @@ export default NextAuth({
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
     }),
   ],
-  
-});
+
+  // Optional: add callbacks, session config etc here
+};
+
+export default NextAuth(authOptions);
