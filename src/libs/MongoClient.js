@@ -1,7 +1,7 @@
 // libs/mongoClient.js
 
 import { MongoClient } from "mongodb";
-
+//   connection string in .env
 const uri = process.env.URI;
 
 if (!uri) {
