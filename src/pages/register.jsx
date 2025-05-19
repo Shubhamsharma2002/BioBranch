@@ -2,7 +2,10 @@ import React from 'react'
 
 function register() {
   return (
-    <div>register</div>
+    <div>
+
+      working on custim register
+    </div>
   )
 }
 
