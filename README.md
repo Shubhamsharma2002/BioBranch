@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 BioBranch
 
-## Getting Started
+**BioBranch** is a modern Linktree alternative that allows users to create a beautiful and customizable bio page to showcase all their important links in one place.
 
-First, run the development server:
+## 🛠️ Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Frontend:** Next.js, JSX, Tailwind CSS
+- **Backend:** Next.js API Routes / Express (optional extension)
+- **Database:** MongoDB (via Mongoose or direct MongoDB driver)
+- **Deployment:** Vercel / Render / Any cloud provider
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🔗 Create your own unique bio page with a custom username
+- 📋 Add, edit, and delete unlimited links
+- 🎨 Clean, responsive UI using Tailwind CSS
+- 📱 Mobile-first design
+- 💾 MongoDB database for storing users and their links
+- 🔐 Future scope: User authentication, link analytics, custom themes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚧 Project Status
 
-## Learn More
+> 🚀 Currently in development. Core features like creating and managing links are being built.
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Coming soon..._
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧑‍💻 Getting Started
 
-## Deploy on Vercel
+### Prerequisites
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Node.js (v18+ recommended)
+- MongoDB Atlas or local MongoDB setup
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Installation
+
+1. Clone the repo:
+
+
