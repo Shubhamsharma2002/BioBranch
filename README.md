@@ -46,8 +46,7 @@ _Coming soon..._
 
 
 ```bash
-git clone https://github.com/Shubhamsharma2002/SkyNow.git
-cd SkyNow
+git clone https://github.com/Shubhamsharma2002/BioBranch
 npm install
 npm run dev
 ```
