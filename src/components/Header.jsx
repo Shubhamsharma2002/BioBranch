@@ -21,7 +21,7 @@ export default function Header() {
 
       {/* Right links */}
       <div className="flex flex-col md:flex-row gap-2 md:gap-6">
-        <Link href="/" className="hover:text-blue-600">
+        <Link href="/login" className="hover:text-blue-600">
           Sign In
         </Link>
         <Link

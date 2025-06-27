@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 export default function Home() {
   return (
       <main>
-        <Header/>
+     
         <section className="p-6 pt-32 max-w-4xl mx-auto">
            <div className="max-w-md mb-8">
                   <h1 className="text-6xl font-bold">Your one Link <br/> for everything</h1>
