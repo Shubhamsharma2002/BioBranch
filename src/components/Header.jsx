@@ -6,7 +6,7 @@ export default function Header() {
       {/* Left links */}
       <div className="flex flex-col md:flex-row gap-2 md:gap-6 mb-3 md:mb-0">
         <Link href="/" className="font-bold text-lg">
-          Biobranch
+          Biobranch 
         </Link>
         <Link href="/" className="hover:text-blue-600">
           About
