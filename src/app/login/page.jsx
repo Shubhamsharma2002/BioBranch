@@ -13,13 +13,15 @@ export default function Login() {
         <LoginWithLinkdin/>
       </div>
 
-      
+
 
       {/* Right: Image or anything else */}
       <div className="flex items-center justify-center bg-gray-100">
         {/* Add your image or content here */}
         {/* <img src="/login-image.png" alt="Login Illustration" className="w-3/4" /> */}
       </div>
+
+      
     </div>
   );
 }
