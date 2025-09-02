@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <div>Footer
-        ....       all right reserved
+        ....                 all right reserved
     </div>
   )
 }
