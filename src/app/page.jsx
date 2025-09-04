@@ -16,7 +16,7 @@ export default function Home() {
           <span className="bg-white py-4 pl-4">biobranch.to/</span>
           <input type="text" className="py-4" placeholder="username" />
           <button type="submit" className="bg-blue-500 text-white py-4 px-6">
-            Join for free
+            Join for free....
           </button>
         </form>
       </section>
