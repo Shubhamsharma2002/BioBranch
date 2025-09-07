@@ -21,6 +21,7 @@ export default function Login() {
         {/* <img src="/login-image.png" alt="Login Illustration" className="w-3/4" /> */}
       </div>
 
+
       
     </div>
   );
