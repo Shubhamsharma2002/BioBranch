@@ -8,10 +8,6 @@ export default function Header() {
         <Link href="/" className="font-bold text-lg">
           Biobranch 
         </Link>
-
-
-
-        
         <Link href="/" className="hover:text-blue-600">
           About
         </Link>
