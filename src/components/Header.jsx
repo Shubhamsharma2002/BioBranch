@@ -11,9 +11,6 @@ export default function Header() {
         <Link href="/" className="hover:text-blue-600">
           About
         </Link>
-
-
-        
         <Link href="/" className="hover:text-blue-600">
           Pricing
         </Link>
