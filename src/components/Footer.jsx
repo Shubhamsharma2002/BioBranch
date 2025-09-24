@@ -4,6 +4,6 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div>Footer all right reserved </div>
+    <div>Footer all right reserved ... </div>
   )
 }
