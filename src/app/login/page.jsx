@@ -6,7 +6,7 @@ export default function Login() {
     <div className="grid grid-cols-1 md:grid-cols-2 ">
       {/* Left: Login Form */}
       <div className="p-4 max-w-xs mx-auto flex flex-col justify-center">
-        <h1 className="text-4xl font-bold text-center mb-4">Sign In</h1>
+        <h1 className="text-4xl font-bold text-center mb-4">Sign In..</h1>
         <LoginWithGoogle />
         <LoginWithLinkdin />
       </div>
