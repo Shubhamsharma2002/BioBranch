@@ -10,7 +10,6 @@
 - **Database:** MongoDB (via Mongoose or direct MongoDB driver)
 - **Deployment:** Vercel 
 
-
 ## ✨ Features
 
 - 🔗 Create your own unique bio page with a custom username
@@ -19,8 +18,6 @@
 - 📱 Mobile-first design
 - 💾 MongoDB database for storing users and their links
 - 🔐 Future scope: User authentication, link analytics, custom themes
-
-
 
 
 ## 🚧 Project Status
