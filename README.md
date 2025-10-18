@@ -9,7 +9,6 @@
 - **Deployment:** Vercel 
 
 ## ✨ Features
-
 - 🔗 Create your own unique bio page with a custom username
 - 📋 Add, edit, and delete unlimited links
 - 🎨 Clean, responsive UI using Tailwind CSS
