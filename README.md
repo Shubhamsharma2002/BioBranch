@@ -41,8 +41,6 @@ _Coming soon..._
 ## 🚀 Live Demo
 
 🔗 coming soon
-
-
 ---
 ## 📦 Installation
 
