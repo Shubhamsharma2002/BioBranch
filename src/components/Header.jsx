@@ -4,8 +4,6 @@ export default function Header() {
   return (
     <nav className="flex flex-col md:flex-row justify-between items-center p-4 bg-white shadow-md">
       {/* Left links */}
-
-      
       <div className="flex flex-col md:flex-row gap-2 md:gap-6 mb-3 md:mb-0">
         <Link href="/" className="font-bold text-lg">
           Biobranch 
