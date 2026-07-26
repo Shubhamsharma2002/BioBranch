@@ -10,8 +10,6 @@
 - **Database:** MongoDB (via Mongoose or direct MongoDB driver)
 - **Deployment:** Vercel 
 
-
-
 ## ✨ Features
 - 🔗 Create your own unique bio page with a custom username
 - 📋 Add, edit, and delete unlimited links
