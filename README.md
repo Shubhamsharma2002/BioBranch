@@ -21,8 +21,6 @@
 - 🔐 Future scope: User authentication, link analytics, custom themes
 
 
-
-
 ## 🚧 Project Status
 
 > 🚀 Currently in development. Core features like creating and managing links are being built.
