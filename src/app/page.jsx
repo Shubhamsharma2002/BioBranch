@@ -5,7 +5,7 @@ export default function Home() {
       <section className="p-6 pt-32 max-w-4xl mx-auto">
         <div className="max-w-md mb-8">
           <h1 className="text-6xl font-bold">
-            Your one Link <br /> for everything
+            Your one Link <br /> for everything. 
           </h1>
           <h2 className="text-gray-500 text-xl mt-6">
             Share your links, social profiles, contact info and more on one page
