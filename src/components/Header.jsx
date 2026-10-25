@@ -31,7 +31,7 @@ export default function Header() {
           href="/"
           className="bg-blue-600 text-white px-4 py-1 rounded hover:bg-blue-700 transition"
         >
-          Create Account ,
+          Create Account.
         </Link>
       </div>
     </nav>
