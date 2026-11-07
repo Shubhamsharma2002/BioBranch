@@ -1,10 +1,6 @@
 # 🌿 BioBranch
 
 **BioBranch** is a modern Linktree alternative that allows users to create a beautiful and customizable bio page to showcase all their important links in one place . 
-
-
-
-
 ## 🛠️ Tech Stack   
 
 - **Frontend:** Next.js,  JSX,  Tailwind CSS 
@@ -21,16 +17,14 @@
 - 🔐 Future scope: User authentication, link analytics, custom themes
 
 
-
-
 ## 🚧 Project Status
 
 > 🚀 Currently in development. Core features like creating and managing links are being built.
 
-
 ## 📸 Screenshots
 
 _Coming soon..._
+
 
 ## 🧑‍💻 Getting Started
 
