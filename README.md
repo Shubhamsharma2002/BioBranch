@@ -7,7 +7,9 @@
 - **Frontend:** Next.js,  JSX,  Tailwind CSS 
 - **Backend:** Next.js API Routes / Express  (optional extension)
 - **Database:** MongoDB (via Mongoose or direct MongoDB driver)
-- **Deployment:**    Vercel 
+- **Deployment:** Vercel 
+
+
 
 
 ## ✨ Features
