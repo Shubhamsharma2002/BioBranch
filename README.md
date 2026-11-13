@@ -1,6 +1,8 @@
 # 🌿 BioBranch
 
-**BioBranch** is a modern Linktree alternative that allows users to create a beautiful and customizable bio page to showcase all their important links in one place . ...
+**BioBranch** is a modern Linktree alternative that allows users to create a beautiful and  
+
+customizable bio page to showcase all their important links in one place . ...
 
 ## 🛠️ Tech Stack   
 
@@ -13,6 +15,7 @@
 
 
 ## ✨ Features
+
 - 🔗 Create your own unique bio page with a custom username
 - 📋 Add, edit, and delete unlimited links
 - 🎨 Clean, responsive UI using Tailwind CSS
