@@ -33,7 +33,7 @@ _Coming soon...
 ---
 ## 🚀 Live Demo
 
-🔗 coming soon
+🔗 coming soon .......
 ---
 ## 📦 Installation
 
