@@ -35,7 +35,7 @@ _Coming soon...
 
 🔗 coming soon .......
 ---
-## 📦 Installation
+## 📦 Installation ...
 
 1. **Clone the repository**
 
@@ -52,6 +52,8 @@ npm run dev
 
 
 ## 👤 Developer: Shubham Sharma
+
+
 
 Feel free to connect with me:
 
